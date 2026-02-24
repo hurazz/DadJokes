@@ -22,7 +22,7 @@ FEATURES:
 - Right-click menubar icon for settings
 
 REQUIREMENTS:
-- macOS 12.0 or later
+- macOS 13.0 or later
 - Internet connection for fetching jokes
 
 
